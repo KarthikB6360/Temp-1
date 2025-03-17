@@ -1,4 +1,4 @@
-name: CI/CD Pipeline for textGit
+name: CI/CD Pipeline for textGitt
 
 on:
   push:
